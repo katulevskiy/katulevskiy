@@ -4,7 +4,7 @@ Hey there 👋
 
 I’m Daniel, a full-stack software engineer, creative coder who specializes in back-end development. I make it my mission to create applications that run blazing fast and are objectively useful.
 
-Want to know more about me? [Check out my portfolio.](https://google.com/)
+Want to know more about me? [Check out my portfolio.](https://google.com)
 
 ## 📌 Pinned Repositories
 
