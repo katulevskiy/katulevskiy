@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am Daniel Katulevskiy.<br><br>Student at UC San Diego, majoring in Computer Science.<br>I have more than 5 years of experience in Software Development.<br>Apart from programming, I enjoy disassembling and reverse engineering software.<br><br>Contact me any time, I'll be willing to help!
+Hello, I am Daniel Katulevskiy.<br><br>Student at UC San Diego, majoring in Computer Science.<br><br>Contact me any time, I'll be willing to help!
 
 
 ## 🌐 Socials:
