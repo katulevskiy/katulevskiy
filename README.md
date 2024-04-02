@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am Daniel Katulevskiy.<br><br>Student at UC San Diego, majoring in Computer Science.<br><br>Contact me any time, I'll be willing to help!<br><br>First Github commit in 2005!
+Hello, I am Daniel Katulevskiy.<br><br>Student at UC San Diego, majoring in Computer Science.<br><br>Contact me any time, I'll be willing to help!
 
 
 ## 🌐 Socials:
