@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 44" preserveAspectRatio="xMinYMid meet" role="img" aria-label="Experience section header">
+  <g font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <circle cx="6" cy="20" r="3" fill="#ff8c42"/>
+    <text x="20" y="24" font-size="11" font-weight="700" letter-spacing="3.5" fill="#ff8c42">EXPERIENCE</text>
+  </g>
+  <line x1="120" y1="20" x2="1200" y2="20" stroke="#ff8c42" stroke-opacity="0.22" stroke-width="1"/>
+</svg>
